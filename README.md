@@ -6,6 +6,8 @@ I'm **Franky Alongamo**, a passionate IT enthusiast and developer from Cameroon.
 🌱 Currently studying **Computer Science Engineering** at ENSPY.  
 🚀 Aspiring **DevOps Engineer** and **Machine Learning enthusiast**.  
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=pandora237&color=blue)
 ---
 
 ## 🔧 Technologies & Tools
@@ -30,7 +32,6 @@ I'm **Franky Alongamo**, a passionate IT enthusiast and developer from Cameroon.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandora237&layout=compact&theme=tokyonight&count_private=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=pandora237&color=blue)
 
 ---
 
