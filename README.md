@@ -17,9 +17,9 @@ I'm **Franky Alongamo**, a passionate IT enthusiast and developer from Cameroon.
 ---
 
 ## 📊 GitHub Stats
-![Franky's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandora237&show_icons=true&theme=tokyonight)  
+![Franky's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandora237&show_icons=true&theme=tokyonight&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandora237&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandora237&layout=compact&theme=tokyonight&count_private=true)  
 
 ---
 
