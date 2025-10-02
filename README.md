@@ -10,16 +10,23 @@ I'm **Franky Alongamo**, a passionate IT enthusiast and developer from Cameroon.
 
 ## 🔧 Technologies & Tools
 - **Frontend**: React.js, Next.js, Tailwind CSS  
-- **Backend**: PHP, Java sprinBoot, Node.js
+- **Backend**: PHP, Java Spring Boot, Node.js
 - **Databases**: MySQL, MongoDB
 - **Other**: WebSockets, PrestaShop, Qt, Arduino, JavaFX  
 
 ---
 
+## 📚 Currently Learning
+- DevOps (Docker, Kubernetes, CI/CD)
+- Machine Learning basics with Python
+
 ## 📊 GitHub Stats
 ![Franky's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandora237&show_icons=true&theme=tokyonight&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandora237&layout=compact&theme=tokyonight&count_private=true)  
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pandora237&show_icons=true&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=pandora237&color=blue)
 
 ---
 
@@ -28,6 +35,10 @@ I'm **Franky Alongamo**, a passionate IT enthusiast and developer from Cameroon.
 - ✉️ frankyalongamo@email.com  
 
 ---
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ✨ *"Always learning, always building."*
 
