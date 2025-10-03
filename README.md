@@ -37,7 +37,7 @@ I'm **Franky Alongamo**, a passionate IT enthusiast and developer from Cameroon.
 
 ## 🌍 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/franky-alongamo-b553742b5)  
-- ✉️ frankyalongamo@email.com  
+- ✉️ alongamofranky@email.com  
 
 ---
  
